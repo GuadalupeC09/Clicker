@@ -1,0 +1,12 @@
+.button{
+    width: 300px;
+    height: 90px;
+    background-color:darkcyan;
+    color: crimson;
+    font-family: cursive;
+    font-size: larger;
+    border-color: black;
+    border-radius: 10px;
+    margin-left: 800px;
+    margin-top: 300px;
+}
